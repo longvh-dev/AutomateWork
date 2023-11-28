@@ -10,10 +10,10 @@ these scripts have got you covered.
 [3. Text Processing and Manipulation](#text-processing-and-manipulation)  
 [4. Automating Emails](#automating-emails)  
 [5. Automating Excel Spreadsheets](#automating-excel-spreadsheets)  
-[6. Interacting with Databases](#interacting-with-databases)
-[7. Automating Image Editing](#automating-image-editing)
-[8. Data Cleaning and Transformation](#data-cleaning-and-transformation)
-[9. Automating PDF Operations](#automating-pdf-operations)
+[6. Interacting with Databases](#interacting-with-databases)        
+[7. Automating Image Editing](#automating-image-editing)      
+[8. Data Cleaning and Transformation](#data-cleaning-and-transformation)      
+[9. Automating PDF Operations](#automating-pdf-operations)                
 
 # 1. Automating File Management <a name="automating-file-management"></a>
 - Sorting files in a directory
